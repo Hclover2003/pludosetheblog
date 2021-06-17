@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pludosetheblog/static/css/main.ee9edf99.chunk.css",
+    "main.js": "/pludosetheblog/static/js/main.3a59bf8f.chunk.js",
+    "main.js.map": "/pludosetheblog/static/js/main.3a59bf8f.chunk.js.map",
+    "runtime-main.js": "/pludosetheblog/static/js/runtime-main.a67f71e2.js",
+    "runtime-main.js.map": "/pludosetheblog/static/js/runtime-main.a67f71e2.js.map",
+    "static/css/2.e426f036.chunk.css": "/pludosetheblog/static/css/2.e426f036.chunk.css",
+    "static/js/2.2d8c5846.chunk.js": "/pludosetheblog/static/js/2.2d8c5846.chunk.js",
+    "static/js/2.2d8c5846.chunk.js.map": "/pludosetheblog/static/js/2.2d8c5846.chunk.js.map",
+    "index.html": "/pludosetheblog/index.html",
+    "static/css/2.e426f036.chunk.css.map": "/pludosetheblog/static/css/2.e426f036.chunk.css.map",
+    "static/css/main.ee9edf99.chunk.css.map": "/pludosetheblog/static/css/main.ee9edf99.chunk.css.map",
+    "static/js/2.2d8c5846.chunk.js.LICENSE.txt": "/pludosetheblog/static/js/2.2d8c5846.chunk.js.LICENSE.txt",
+    "static/media/plane.0536e67c.jpg": "/pludosetheblog/static/media/plane.0536e67c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a67f71e2.js",
+    "static/css/2.e426f036.chunk.css",
+    "static/js/2.2d8c5846.chunk.js",
+    "static/css/main.ee9edf99.chunk.css",
+    "static/js/main.3a59bf8f.chunk.js"
+  ]
+}
